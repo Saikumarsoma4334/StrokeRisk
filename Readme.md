@@ -1,4 +1,4 @@
-# Project Title: Stroke Prediction Analysis
+# Project Title: A NOVEL APPROACH TO PREDICT STROKE RISK USING MACHINE LEARNING ALGORITHMS AND CLASSIFIERS
 
 ## Description
 This project, developed by Saikumar Soma, focuses on predicting stroke occurrences based on various health parameters. The analysis is conducted using a Jupyter notebook (`Final_code.ipynb`) and a dataset (`healthcare-dataset-stroke-data.csv`).
